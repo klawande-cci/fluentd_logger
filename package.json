@@ -1,0 +1,16 @@
+{
+  "name": "fluentd_logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keshav Lawande",
+  "license": "ISC",
+  "dependencies": {
+    "enum": "^2.5.0",
+    "express": "^4.16.4",
+    "fluent-logger": "^3.2.3"
+  }
+}
